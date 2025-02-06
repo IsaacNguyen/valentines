@@ -1,5 +1,6 @@
-@import "tailwindcss";
+
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import "tailwindcss";
 
 .bg-custom {
   background-image: url('./assets/paper.jpg');

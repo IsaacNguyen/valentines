@@ -88,6 +88,7 @@ function App() {
 
   const explodeHearts = () => {
     setShowHeartsGif(true);
+
   }
 
   const generateXsImages = () => {
