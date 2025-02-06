@@ -185,8 +185,8 @@ function App() {
                 left: image.x,
                 top: image.y,
                 animationDelay: image.animationDelay,
-                width: '15%', // Adjust size as needed
-                height: '30%', // Adjust size as needed
+                width: 'auto', // Adjust size as needed
+                height: '35%', // Adjust size as needed
               }}
             />
           ))}
